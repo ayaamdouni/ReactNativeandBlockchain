@@ -1,12 +1,10 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
-
 # Getting Started
 
 This project explores the integration of React Native with blockchain technology. I established a connection between the application and my local wallet using **WalletConnect**, and subsequently interacted with a smart contract utilizing the **Wagmi** library.
 
-For further insights into this code, you can refer to [my Medium article](https://medium.com/p/f827d35ef1fc).
+## For further insights into this code, you can refer to [my Medium article](https://medium.com/p/f827d35ef1fc).
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+>**Note**: Make sure you have a wallet installed on your phone before proceeding.
 
 ## Step 1: Start the Metro Server
 
